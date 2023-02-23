@@ -1,0 +1,28 @@
+body {
+background-color:#000000;   
+color: white;
+font-family: Comic Sans MS, Comic Sans, cursive;
+font-weight: 100;
+}
+
+
+
+.text {
+    width: 300px;
+  height: 100px;
+  margin:0% 50%;
+  
+}
+
+
+img {
+width:200px;
+
+}
+div798 {
+  width: 300px;
+  height: 200px;
+  margin: 100px;
+  box-shadow:  40px -30px 15px #8acc0f
+}
+              
